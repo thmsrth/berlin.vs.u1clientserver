@@ -13,6 +13,8 @@ local.properties
 
 # Eclipse Core
 .project
+.classpath
+.settings/
 
 # External tool builders
 .externalToolBuilders/
