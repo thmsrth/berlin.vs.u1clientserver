@@ -1,4 +1,4 @@
-package berlin.vs.u1clientserver;
+package berlin.vs.u1clientserver.server;
 
 import java.io.*;
 import java.net.*;
